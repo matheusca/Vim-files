@@ -1,1 +1,9 @@
+== Introduction
+My plugins and .vimrc files.
 
+== Install
+  git clone git@github.com:matheusca/Vim-files.git ~/.vim && cd .vim
+  mv .vimrc ~
+
+== Issue
+Report in issue track
